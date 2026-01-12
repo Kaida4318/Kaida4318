@@ -1,10 +1,10 @@
 Hi 👋 My name is Muhammad Zubairu
 =================================
 
-Web developer and UI/UX designer
+Data Scientist
 --------------------------------
 
-*   🌍  I'm based in Katsina, Nigeria
+*   🌍  I'm based in Almaty, Kazakhstan
 *   ✉️  You can contact me at [muhammadzkaida@gmail.com](mailto:muhammadzkaida@gmail.com)
 
 ### Skills 

@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammad Zubairu
 =================================
 
-Data Analyst
+Machine Learning Engineer
 --------------------------------
 
 *   🌍  I'm based in Almaty, Kazakhstan
